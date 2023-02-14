@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestMonoSample</string>
+    <string name="launch_widget_btn">Launch Example</string>
+    <string name="connect_public_key">test_pk_...</string>
+</resources>
